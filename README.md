@@ -5,3 +5,7 @@ Set duty cycle of the pwm to 50% and using bluetooth, it arduino receives '+' or
 
 Serial Bluetooth Terminal App is used to send command signals. HC-05 is interfaced using serial communication
 https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en&gl=US 
+
+L29N motor driver is used instead of BTS7960
+Because it was not available on circuit.io or proteus.
+Coding is same for both drivers.
